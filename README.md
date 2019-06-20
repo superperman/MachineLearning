@@ -1,10 +1,10 @@
 # MachineLearning
-1. Group Project and Presentation\\
+1. Group Project and Presentation\
 
-Objective: \\
-•	To complement in-class learning\\
-•	Apply techniques in greater depth or breadth\\
-•	To prepare yourself for real world data science problems\\
+Objective: \
+•	To complement in-class learning\
+•	Apply techniques in greater depth or breadth\
+•	To prepare yourself for real world data science problems\
 
 Evaluation:\\
 •	Problem originality, model elegance and innovativeness\\
